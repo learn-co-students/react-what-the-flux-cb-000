@@ -6,7 +6,7 @@
 2. Explain how data travels through a flux-based application
 3. Explain why stores in Flux don't have public setters
 
-## Overview
+## Overview 
 
 Introduce students to the basics of Flux. We can lean on the "official" Facebook
 implementation (even though it's a little wonky at times), since that's what
